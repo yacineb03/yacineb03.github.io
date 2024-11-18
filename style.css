@@ -59,7 +59,7 @@ nav li {
 
 /*debut etude*/
 .etudes{
-    background-image: url("image/ddd.jpg");
+    background-image: url(./ffd.jpg);
     padding-bottom: 10%; /*cree un espace en dessous du derniers blocs blanc*/
 }
 .titreetudes{
@@ -93,7 +93,7 @@ color: rgb(255, 254, 254);
 
 /*debut exp*/
 .experiences{
-    background-image: url("image/field-6574455_1920.jpg");
+    background-image: url(./ppp.jpg);
     padding-bottom: 10%; /*cree en dessous du dernier bloc */
 }
 .titreexperiences{
